@@ -9,5 +9,3 @@ if [ "$#" -eq  "0" ]
 else
     npx playwright test --headed
 fi
-
-npx playwright show-report

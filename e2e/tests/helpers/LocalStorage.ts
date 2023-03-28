@@ -1,4 +1,3 @@
-// e2e/tests/helpers/LocalStorage.ts
 import type { BrowserContext } from '@playwright/test'
 
 export class LocalStorage {

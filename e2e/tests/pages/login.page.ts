@@ -1,4 +1,3 @@
-// e2e/tests/pages/login.page.ts
 import type { Page } from '@playwright/test'
 
 export class LoginPage {
